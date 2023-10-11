@@ -1,6 +1,6 @@
 ### Olá, me chamo Felipe Chaves ✌
 
-### Estudante de Tecnologia da Informação | Universidade Federal Rural do Semi-Árido 👨‍💻
+ Estudante de Tecnologia da Informação | Universidade Federal Rural do Semi-Árido 👨‍💻
  ##
  
 <div> 
