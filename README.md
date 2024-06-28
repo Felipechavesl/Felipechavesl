@@ -1,43 +1,69 @@
-### Olá, me chamo Felipe Chaves ✌
-<hr>
-👨‍💻 - Estudante de Tecnologia da Informação | Universidade Federal Rural do Semi-Árido <br>
- 
+<h2 align="center"> Hi there, I'm Felipe Chaves! 👋</h2>
+
+
+### 🙋🏾‍♂️ About Me
+<br>
+<p align="left">👨‍💻 - Information Technology Student | Federal Rural University of the Semi-Arid Region</p>
+
+---
+
+### 🚀 Skills
+<br>
+<p align="left">Languages:</p>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="30" alt="ruby logo"  />
+</div>
 
 <br>
-<div> 
- <a href="https://github.com/Felipechavesl">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipechavesl&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipechavesl&layout=compact&langs_count=7&theme=transparent"/>
+<p align="left">In progress:</p>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/rubyonrails/" height="40" alt="rubyonrails logo"  />
+  <img width="12" />
+
 </div>
 
-  
-## My Skills
-  
-#### Languages:
+<br>
 
-![JavaScript](https://img.shields.io/badge/javascript-ffff00?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+<p align="left">Tools:</p>
 
-#### In progress:
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-#### Tools:
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-## Contacts:
-<div> 
-  <a href="https://www.instagram.com/felipe.chl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:felipechavespsp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-chaves-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="left">
+  <a href="instagram.com/felipe.chl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="felipechavespsp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/felipechaveslima/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipechavesl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipechavesl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
+
